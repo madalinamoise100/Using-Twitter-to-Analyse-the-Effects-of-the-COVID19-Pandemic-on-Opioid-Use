@@ -5,10 +5,10 @@ pd.set_option('display.max_columns', None)
 import datetime as DT
 import re
 
-consumer_key= 'xCNoLsVFA5HByFq07xTu5X6u5'
-consumer_secret= 'XiJIG40SVL2YVNz8SxezIRS6GMAT2CQBvQ0LukZ11hd6uol8vB'
-access_token= '1238861720157933569-NXjyBKJQtZ7gSwFf1sQdk8HvBpKdM7'
-access_token_secret= 'uQGDlqZRLEsuki3WmWfusCr5PULZFO5toEq7XfFBQPPZB'
+consumer_key= ''
+consumer_secret= ''
+access_token= ''
+access_token_secret= ''
 
 auth = tw.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
