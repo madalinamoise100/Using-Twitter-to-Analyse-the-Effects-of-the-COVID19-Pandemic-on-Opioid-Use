@@ -1,0 +1,81 @@
+[(10,
+  '0.000*"munchie" + 0.000*"blacken" + 0.000*"unpleasant" + 0.000*"obit" + '
+  '0.000*"outstanding" + 0.000*"ritual" + 0.000*"pete" + 0.000*"mercy" + '
+  '0.000*"poorservice" + 0.000*"reckt"'),
+ (25,
+  '0.193*"real" + 0.124*"seem" + 0.058*"research" + 0.048*"lead" + '
+  '0.018*"honest" + 0.011*"anywhere" + 0.010*"existence" + 0.001*"financially" '
+  '+ 0.000*"watch" + 0.000*"church"'),
+ (17,
+  '0.226*"death" + 0.118*"believe" + 0.107*"hard" + 0.045*"sound" + '
+  '0.040*"infection" + 0.026*"county" + 0.024*"super" + 0.010*"enjoy" + '
+  '0.001*"spreader" + 0.000*"hit"'),
+ (12,
+  '0.176*"look" + 0.085*"shit" + 0.061*"always" + 0.053*"public" + '
+  '0.048*"deal" + 0.031*"nurse" + 0.027*"pfizer" + 0.026*"listen" + '
+  '0.025*"expert" + 0.023*"manage"'),
+ (11,
+  '0.158*"bad" + 0.092*"fact" + 0.074*"wrong" + 0.058*"book" + 0.053*"allow" + '
+  '0.052*"lol" + 0.036*"rate" + 0.031*"prevent" + 0.029*"part" + '
+  '0.027*"different"'),
+ (15,
+  '0.308*"pandemic" + 0.078*"remind" + 0.056*"lie" + 0.048*"night" + '
+  '0.034*"sleep" + 0.032*"alone" + 0.029*"seriously" + 0.027*"dead" + '
+  '0.020*"dangerous" + 0.011*"plague"'),
+ (9,
+  '0.135*"mask" + 0.124*"month" + 0.107*"follow" + 0.057*"recover" + '
+  '0.052*"wear" + 0.046*"high" + 0.029*"reply" + 0.025*"daughter" + '
+  '0.020*"protect" + 0.018*"ruin"'),
+ (7,
+  '0.351*"year" + 0.083*"old" + 0.067*"tested_positive" + 0.043*"pray" + '
+  '0.041*"twitter" + 0.027*"husband" + 0.021*"prayer" + 0.015*"lord" + '
+  '0.013*"separate" + 0.000*"gon"'),
+ (6,
+  '0.263*"see" + 0.136*"ask" + 0.046*"testing" + 0.041*"heart" + 0.037*"prove" '
+  '+ 0.029*"condition" + 0.025*"cancel" + 0.022*"joke" + 0.022*"asthma" + '
+  '0.011*"lung"'),
+ (18,
+  '0.111*"much" + 0.103*"case" + 0.073*"god" + 0.068*"situation" + '
+  '0.037*"enough" + 0.032*"nhs" + 0.031*"local" + 0.025*"exactly" + '
+  '0.024*"bit" + 0.021*"definitely"'),
+ (16,
+  '0.190*"give" + 0.153*"well" + 0.078*"live" + 0.077*"care" + 0.065*"talk" + '
+  '0.057*"miss" + 0.037*"ill" + 0.025*"impact" + 0.025*"minute" + '
+  '0.019*"join"'),
+ (21,
+  '0.122*"back" + 0.073*"new" + 0.065*"job" + 0.060*"put" + 0.060*"offer" + '
+  '0.048*"kid" + 0.046*"fuck" + 0.044*"dad" + 0.039*"state" + 0.034*"office"'),
+ (13,
+  '0.109*"many" + 0.101*"way" + 0.101*"keep" + 0.070*"start" + '
+  '0.059*"actually" + 0.058*"country" + 0.056*"news" + 0.030*"support" + '
+  '0.026*"teach" + 0.023*"blessing"'),
+ (19,
+  '0.113*"feel" + 0.099*"today" + 0.099*"also" + 0.079*"school" + 0.051*"hear" '
+  '+ 0.048*"sick" + 0.039*"vaccination" + 0.038*"little" + 0.037*"question" + '
+  '0.035*"free"'),
+ (14,
+  '0.298*"virus" + 0.277*"corona" + 0.110*"need" + 0.064*"send" + 0.022*"play" '
+  '+ 0.018*"one" + 0.013*"son" + 0.007*"smart" + 0.000*"learn" + 0.000*"sum"'),
+ (23,
+  '0.152*"let" + 0.130*"come" + 0.090*"try" + 0.089*"show" + 0.062*"happen" + '
+  '0.051*"lockdown" + 0.045*"big" + 0.044*"trump" + 0.024*"tweet" + '
+  '0.021*"team"'),
+ (0,
+  '0.219*"amp" + 0.048*"refuse" + 0.045*"spread" + 0.042*"mean" + 0.042*"mom" '
+  '+ 0.038*"break" + 0.035*"soon" + 0.033*"medical" + 0.030*"include" + '
+  '0.025*"china"'),
+ (3,
+  '0.153*"day" + 0.113*"last" + 0.103*"really" + 0.081*"never" + 0.080*"life" '
+  '+ 0.072*"love" + 0.051*"lot" + 0.046*"person" + 0.029*"contact" + '
+  '0.022*"vaccinated"'),
+ (1,
+  '0.284*"vaccine" + 0.167*"take" + 0.154*"time" + 0.064*"cause" + '
+  '0.039*"story" + 0.031*"speak" + 0.020*"post" + 0.017*"attend" + '
+  '0.015*"else" + 0.010*"dm"'),
+ (22,
+  '0.291*"covid" + 0.066*"get" + 0.043*"tell" + 0.041*"people" + 0.036*"make" '
+  '+ 0.035*"go" + 0.029*"know" + 0.024*"say" + 0.021*"work" + 0.020*"help"')]
+
+Perplexity:  -18.3357073779415
+
+Coherence Score:  0.4170632774182229

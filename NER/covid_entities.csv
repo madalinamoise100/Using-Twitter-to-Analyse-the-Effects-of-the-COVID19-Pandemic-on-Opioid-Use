@@ -1,0 +1,42 @@
+,index,Entity,Count,Entity Type
+0,0,sick,117,PAIN
+1,1,pain,25,PAIN
+2,2,blood,17,PAIN
+3,3,hurt,17,PAIN
+4,4,cry,11,PAIN
+5,5,suffer,9,PAIN
+6,6,suffered,8,PAIN
+7,7,hurts,5,PAIN
+8,8,scream,5,PAIN
+9,9,uncomfortable,2,PAIN
+10,10,injured,1,PAIN
+11,11,ache,1,PAIN
+12,12,agony,1,PAIN
+13,0,republican,9,NORP
+14,1,democrats,9,NORP
+15,2,republicans,8,NORP
+16,3,democrat,7,NORP
+17,4,texans,3,NORP
+18,5,american,1,NORP
+19,0,tonight,16,TIME
+20,1,midday,1,TIME
+21,0,'year',310,DATE
+22,1,'week',123,DATE
+23,2,'months',88,DATE
+24,3,'years',69,DATE
+25,4,'month',54,DATE
+26,5,'weeks',49,DATE
+27,6,"'months', 'ago'",13,DATE
+28,7,'holidays',9,DATE
+29,8,'decades',8,DATE
+30,9,'months'],5,DATE
+31,10,'days',4,DATE
+32,11,'century',3,DATE
+33,12,"', 'days'",3,DATE
+34,13,'nights',3,DATE
+35,14,'decade',2,DATE
+36,15,yesterday,2,DATE
+37,16,"', 'year'",1,DATE
+38,17,'monday',1,DATE
+39,18,'sunday',1,DATE
+40,19,"'year', 'months'",1,DATE
