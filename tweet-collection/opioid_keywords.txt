@@ -1,12 +1,11 @@
 opioids
-"opioid crisis"
-"opioid treatment"
+opioid
 fentanyl
 hydrocodone
-heroin
 oxycodone
-Oxycontin
-Vicodin
+oxycontin
+vicodin
+tramadol
 morphine
 codeine
-overdose
+oxy
