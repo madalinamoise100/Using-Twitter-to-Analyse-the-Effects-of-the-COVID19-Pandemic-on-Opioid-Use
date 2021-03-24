@@ -86,10 +86,20 @@ def get_pain_entities(tokens):
     return pain_list
 
 # MEDICATION
+# https://bpspubs.onlinelibrary.wiley.com/doi/10.1111/bcp.13709
 med_dict = {'paracetamol', 'morphine', 'ibuprofen', 'fentanyl', 'hydrochone', 'vicodin', 'tylenol', 'meds',
             'medication', 'nurofen', 'advil', 'drug', 'drugs', 'codeine', 'cocodamol', 'tramadol',
             'oxy', 'fentanyl', 'hydrocodone', 'oxycodone', 'tapentadol', 'aspirin', 'naloxone',
-            'buprenorphine', 'methadone', 'co-codamol'}
+            'buprenorphine', 'methadone', 'co-codamol', 'acetaminophen', 'simvastatin', 'zocor', 'lisinopril',
+            'prinivil', 'zestril', 'levothyroxine', 'synthroid', 'azithromycin', 'zithromax', 'z-pak',
+            'metformin', 'glucophage', 'lipitor', 'atorvastatin', 'amlodipine', 'norvasc', 'amoxicillin',
+            'hydrochlorothiazide', 'adderall', 'xanax', 'omeprazole', 'lansoprazole', 'simvastatin', 'atorvastatin',
+            'pravastatin', 'bisoprolol', 'atenolol', 'propranolol', 'amlodipine', 'felodipine', 'diltiazem',
+            'nifedipine', 'lercanidipine', 'cyclizine', 'cetirizine', 'loratadine', 'fexofenadine', 'chlorphenamine',
+            'salbutamol', 'salmeterol', 'ramipril', 'lisinopril', 'perindopril', 'furosemide', 'bumetanide', 'warfarin',
+            'thiamine', 'hydrochloride', 'naproxen', 'macrogol', 'lactulose', 'citalopram', 'sertraline', 'fluoxetine',
+            'prednisolone', 'senna', 'docusate', 'beclometasone', 'fluticasone', 'budesonide', 'diazepam',
+            'temazepam', 'lorazepam', 'doxazosin', 'tamsulosin'}
 def get_med_entities(tokens):
     med_list = []
     for token in tokens:
